@@ -1,0 +1,10 @@
+{
+  "1235817346451374080": {
+    "ignoreChannels": ["1237811174351962233", "channelId2"],
+    "bypassRoles": ["1266332404189237402", "Moderator"]
+  },
+  "guildId2": {
+    "ignoreChannels": ["channelId3"],
+    "bypassRoles": ["Admin", "MusicManager"]
+  }
+}
